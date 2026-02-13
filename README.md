@@ -37,7 +37,7 @@ ODIN Userdata Slot: vbmeta_disabled.tar
 ```
 
 # Important note
-- Make sure that the uploaded file can downloaded with wget command and will download a correct file. Catbox works fine.
+- Make sure you can download the file with the wget command. Catbox works fine.
 
 # Credits
 - [Phhusson](https://github.com/phhusson) Without his script nothing would be possible at the first place
