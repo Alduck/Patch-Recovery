@@ -20,7 +20,7 @@ ODIN AP Slot: fastbootd-recovery.tar.md5
 ODIN Userdata Slot: vbmeta_disabled.tar
 ```
 
-# FOR A/B DEVICES (example: Galaxy S25 series, Galaxy A55)
+# FOR A/B DEVICES (example: Galaxy S25 series)
 - Download your desired build from samfw or any other reliable source.
 - Extract it, and then extract the AP file.
 - Look at the AP file for vendor_boot.img.lz4. Copy it to somewhere you'll remember.
